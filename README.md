@@ -180,3 +180,8 @@ Building SocialApp taught me how to design a real data model from scratch and ke
 - No real image hosting — images are stored as base64 strings, which is fine for a demo but would bloat storage at scale.
 - No pagination — the feed loads all public posts at once; a real backend would paginate or infinite-scroll.
 - With a real backend (Node/Express + MongoDB, matching the MERN stack), this app would add: multi-device sync, secure auth with hashed passwords and JWT/sessions, image uploads to cloud storage (e.g. Cloudinary/S3), real-time notifications, and pagination/infinite scroll for the feed.
+
+##  Video Link
+
+https://www.loom.com/share/671b7cfdfc8a4978b98a72046c50419e 
+
