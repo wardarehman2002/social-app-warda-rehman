@@ -1,13 +1,11 @@
-# SocialApp 📱
+# SocialApp 
 
 A Facebook-inspired social media platform built with React — signup, login, create posts (public/private/draft), like, comment, and manage your profile, all powered entirely by `localStorage`.
 
-## 🔗 Live Demo
+##  Live Demo
 
-> Replace this with your Vercel/Netlify link after deploying:
-> **https://your-social-app.vercel.app**
 
-## 📸 Screenshots
+##  Screenshots
 
 > Add at least 4 screenshots here after running the app: Feed page, Create Post, Profile page, Dashboard.
 
@@ -19,7 +17,7 @@ A Facebook-inspired social media platform built with React — signup, login, cr
 |---------|-----------|
 | _screenshot_ | _screenshot_ |
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React (Vite)** — frontend framework and build tool
 - **React Router v6** — multi-page navigation, dynamic routes, protected routes
@@ -30,7 +28,7 @@ A Facebook-inspired social media platform built with React — signup, login, cr
 - **clsx** — conditional className handling for component variants
 - **React.lazy + Suspense** — code-splitting, each page loads on demand
 
-## ✨ Features
+##  Features
 
 - Signup with validation (name, email, strong password, confirm password) and login with session persistence on refresh
 - Public feed of all published posts, with guest users redirected to login when trying to like/comment
@@ -42,11 +40,11 @@ A Facebook-inspired social media platform built with React — signup, login, cr
 - Protected dashboard routes — redirect to `/login` if not authenticated
 - **Bonus:** live search on the feed, dark mode toggle, character counter on post description, image preview before upload, delete-your-own-comment with inline "Are you sure?" confirmation
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 ```bash
-git clone https://github.com/<your-username>/social-app-<your-name>.git
-cd social-app-<your-name>
+git clone https://github.com/<wardarehman2002>/social-app-<warda-rehman>.git
+cd social-app-<warda-rehman>
 npm install
 npm run dev
 ```
@@ -60,7 +58,7 @@ npm run build
 npm run preview
 ```
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 src/
@@ -109,7 +107,7 @@ src/
 └── main.jsx
 ```
 
-## 🗄️ localStorage Data Structure
+##  localStorage Data Structure
 
 **`users`**
 ```json
@@ -161,11 +159,11 @@ src/
 }
 ```
 
-## 📚 What I Learned
+##  What I Learned
 
 Building SocialApp taught me how to design a real data model from scratch and keep it consistent across many components without a backend. I got much more comfortable with the Context API for sharing auth state globally instead of prop drilling, and with writing custom hooks (`useAuth`, `usePosts`, `useLocalStorage`) to keep components clean and logic reusable. Working with React Hook Form across four different forms (login, signup, create post, profile settings) helped me understand validation patterns like `watch()` for confirm-password matching and live character counters. I also learned how protected routes work in React Router v6 using a wrapper component, and how `React.lazy` + `Suspense` splits the app into per-page chunks. Handling images was a good exercise in `FileReader`/base64 since there's no backend to upload files to. Overall this project made me think much more carefully about data flow and state ownership in a mid-sized React app.
 
-## ⚠️ Known Limitations
+##  Known Limitations
 
 - All data is stored in the browser's `localStorage`, so it does not sync across devices and is wiped if the browser storage is cleared.
 - Passwords are stored in plain text in `localStorage` — with a real backend this would use hashed passwords and secure sessions/JWT instead.
