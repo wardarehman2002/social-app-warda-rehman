@@ -12,7 +12,7 @@ https://social-app-warda-rehman-mmprwq5gn.vercel.app/
 
 ### Feed Page
 
-<img width="1542" height="1616" alt="social-app-warda-rehman vercel app_" src="https://github.com/user-attachments/assets/01af3b8b-c43b-4fad-9fb6-3dbc1df7676e" />
+<img width="1542" height="2416" alt="social-app-warda-rehman vercel app_profile_usr_1784248206678_0cszz9" src="https://github.com/user-attachments/assets/5ff10c05-14bb-4ca8-a3ba-0e784112e38d" />
 
 ### Create Post
 
