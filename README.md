@@ -12,9 +12,6 @@ A Facebook-inspired social media platform built with React — signup, login, cr
 
 ### Feed Page
 
-<img width="1542" height="1108" alt="social-app-warda-rehman vercel app_FC" src="https://github.com/user-attachments/assets/4b608973-e9b2-
-4491-a386-246d8f198e11" />
-
 <img width="1542" height="1616" alt="social-app-warda-rehman vercel app_" src="https://github.com/user-attachments/assets/01af3b8b-c43b-4fad-9fb6-3dbc1df7676e" />
 
 ### Create Post
@@ -23,13 +20,9 @@ A Facebook-inspired social media platform built with React — signup, login, cr
 
 ### Profile Page
 
-<img width="1542" height="1432" alt="social-app-warda-rehman vercel app_profile" src="https://github.com/user-attachments/assets/428f6392-7595-4fad-9e04-fafaceb593b6" />
-
 <img width="1542" height="2416" alt="social-app-warda-rehman vercel app_profile_usr_1784248206678_0cszz9" src="https://github.com/user-attachments/assets/7db8343a-d821-449c-a3cb-d749e699b960" />
 
 ### Dashboard
-
-<img width="1542" height="1108" alt="social-app-warda-rehman vercel app_dashboard_posts" src="https://github.com/user-attachments/assets/611b1971-1b5a-4ec7-91b3-0dc194c7381b" />
 
 <img width="1542" height="1176" alt="social-app-warda-rehman vercel app_dashboard_posts (1)" src="https://github.com/user-attachments/assets/6fb394cc-b836-447e-b24a-645686175cf1" />
 
